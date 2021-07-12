@@ -1,2 +1,2 @@
-spring
+spring:
   port: 8080
